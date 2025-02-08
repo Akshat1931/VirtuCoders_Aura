@@ -241,7 +241,8 @@ truffle compile
 truffle migrate
 ```
 - Copy the deployed contract address and update it in `src/app.js`:
-  ![image](https://github.com/user-attachments/assets/581b3857-283c-4c14-8ae1-fab0776822da)
+  ![image](https://github.com/user-attachments/assets/aae62b1b-d469-4ae8-a468-aa4c4189786c)
+
 
 ```js
 // app/src/app.js (Line 11)
@@ -260,11 +261,13 @@ truffle migrate --reset
 ### 1. Connect Metamask to Local Blockchain
 - **Set network to localhost:8545**.
 - Click on right top menu.
-<img src="https://github.com/user-attachments/assets/9efd94b3-85d2-4097-a387-0c416936c198" width="300">
+<img src="https://github.com/user-attachments/assets/7bf4a770-9286-4116-bb17-8ee6da7d8589" width="300">
+
 
 - Click on add a network then enter following info given below.
 
-<img src="https://github.com/user-attachments/assets/d301daae-83e3-479d-a283-fab8a813accb" width="300">
+<img src="https://github.com/user-attachments/assets/ae026c59-2e51-4602-a3ea-1634af27bd93" width="300">
+
 
 - Click **Save**
 - Click **Import Account**.

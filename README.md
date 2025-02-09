@@ -310,7 +310,7 @@ That's it! 🎉 Your **dApp** is now running locally. 🚀
 * AI Chatbot: Natural Language Processing
 
 ## Team & Credits
-Developed by **ViruCoders** for **HACKJMI**
+Developed by **VirtuCoders** for **HACKJMI**
 
 ## Contact
 For any queries or support, please reach out to:
